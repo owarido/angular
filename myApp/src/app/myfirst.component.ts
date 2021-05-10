@@ -1,7 +1,7 @@
 import { Component } from "@angular/core";
 
 @Component({
-    selector: 'myfirst', 
+    selector: '.myfirst', 
     templateUrl: './myfirst.component.html',
     styleUrls: ['./myfirst.component.css']
 })
